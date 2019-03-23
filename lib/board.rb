@@ -8,4 +8,6 @@
 # row ('2')
 # move x to position 2, middle
 # row("1") = x 
+
+
 board = x 
