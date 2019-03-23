@@ -5,7 +5,7 @@ row("0")
 position 2: middle
 row("1")
 position 3: right
-row ('2")
-move x to position 2, middle
-row("1") = x 
+row ('2')
+# move x to position 2, middle
+# row("1") = x 
 board = x 
