@@ -10,4 +10,4 @@
 # row("1") = x 
 
 
-board = x 
+board = "x" 
